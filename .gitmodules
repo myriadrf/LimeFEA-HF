@@ -1,0 +1,3 @@
+[submodule "hardware/LimeFEA-HF_u/1v0/LimeMicroAltiumLib"]
+	path = hardware/LimeFEA-HF_u/1v0/LimeMicroAltiumLib
+	url = https://github.com/myriadrf/LimeMicroAltiumLib
