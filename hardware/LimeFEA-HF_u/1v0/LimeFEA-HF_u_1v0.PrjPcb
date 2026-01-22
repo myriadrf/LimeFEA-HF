@@ -123,74 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RSBYAPWI
 
 [Document6]
-DocumentPath=Schematics\05_LMS7002M_Misc.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WASNWSLX
-
-[Document7]
-DocumentPath=Schematics\06_LMS7002M_RF.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SBUEFAIX
-
-[Document8]
-DocumentPath=Schematics\07_LMS7002M_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FIBUDKJB
-
-[Document9]
-DocumentPath=Schematics\08_BB_Processor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ABDJDAPY
-
-[Document10]
 DocumentPath=OutputJobs\02_ExportDRCandERC.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document7]
 DocumentPath=OutputJobs\03_ExportAssemblyDrawings.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document8]
 DocumentPath=OutputJobs\04_ExportPCBDrawings.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document9]
 DocumentPath=OutputJobs\05_ExportPCBspecs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document10]
 DocumentPath=OutputJobs\06_ExportSchematic.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document11]
 DocumentPath=OutputJobs\07_ExportPCB3D.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document12]
 DocumentPath=OutputJobs\08_ExportStep3D.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document13]
 DocumentPath=OutputJobs\09_ExportGerbers.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document14]
 DocumentPath=OutputJobs\10_ExportDrills.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document15]
 DocumentPath=OutputJobs\11_ExportAssembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document16]
 DocumentPath=LimeMicroAltiumLib\LimeMicroAltiumLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFCUBDNR
 
-[Document21]
+[Document17]
 DocumentPath=LimeMicroAltiumLib\LimeMicroAltiumLib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNCKCINT
 
-[Document22]
+[Document18]
 DocumentPath=Schematics\09_Misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,41 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLUFKHHC
 
-[Document23]
-DocumentPath=Schematics\10_Clock.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IOMSQHIO
-
-[Document24]
-DocumentPath=Schematics\11_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RASHJTGE
-
-[Document25]
+[Document19]
 DocumentPath=PCB\LimeFEA-HF_u_1v0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,8 +360,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COIIMVQC
 
-[Document26]
+[Document20]
 DocumentPath=LimeFEA-HF_u_1v0.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=Schematics\10_Misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
