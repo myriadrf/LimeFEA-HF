@@ -361,7 +361,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CJWIJLEB
 
 [Document20]
-DocumentPath=PCB\LimeFEA-HF_u_1v0.PcbDoc
+DocumentPath=PCB\LimeFEA-HF_Micro_1v0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -378,7 +378,7 @@ GenerateClassCluster=0
 DocumentUniqueId=COIIMVQC
 
 [Document21]
-DocumentPath=LimeFEA-HF_u_1v0.PCBDwf
+DocumentPath=LimeFEA-HF_Micro_1v0.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
