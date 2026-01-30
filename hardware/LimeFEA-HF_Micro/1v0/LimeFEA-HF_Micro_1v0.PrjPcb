@@ -344,23 +344,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SLUFKHHC
 
 [Document19]
-DocumentPath=Schematics\10_Misc.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CJWIJLEB
-
-[Document20]
 DocumentPath=PCB\LimeFEA-HF_Micro_1v0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,9 +358,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=COIIMVQC
+DocumentUniqueId=RDYIQCBY
 
-[Document21]
+[Document20]
 DocumentPath=LimeFEA-HF_Micro_1v0.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=Schematics\10_RF_SW_LNA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPACKENW
 
-[Document23]
+[Document22]
 DocumentPath=Schematics\10_Filters.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,14 +411,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQYFOGVR
 
-[Document24]
+[Document23]
 DocumentPath=Schematics\10_ATT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -444,6 +427,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFLYNARL
+
+[Document24]
+DocumentPath=Schematics\10_Misc.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CJWIJLEB
 
 [ProjectVariant1]
 UniqueID=CC2F62BA-883F-43C1-BBD8-A00E67B31A1A
