@@ -265,7 +265,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -282,7 +282,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -299,7 +299,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -316,7 +316,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -327,7 +327,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EQYFOGVR
 
 [Document18]
-DocumentPath=Schematics\5_Attenuators.SchDoc
+DocumentPath=Schematics\5_Attenuators_LNAs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -480,12 +480,12 @@ Variation94=Designator=ESD6|UniqueId=\ZCEHGYQB|Kind=0|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=SHEET_TOTAL
-Value=5
-
-[Parameter2]
 Name=PROJECT_VERSION
 Value=1.0
+
+[Parameter2]
+Name=SHEET_TOTAL
+Value=5
 
 [Configuration1]
 Name=Default Configuration
