@@ -1,0 +1,8 @@
+Changes:
+ 
+LimeFEA-HF_Micro_1v0_DFMr0_EuroCircuits:
+ - Initial version
+ - Based on LimeFEA-HF_Micro_1v0_DFMr0_JLCPCB
+ - RF trace widths changed to match EuroCircuits stackup
+ - X1 (I2C FPC) connector renamed to RFCTL on silkscreen
+ - DFM files refreshed except BOM
