@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for LimeFEA-HF_Micro_1v0
 LogFolderPath=
 ManagedProjectGUID=17CFFD15-2CD7-499C-B470-3216F8D0D3A4
 IncludeDesignInRelease=0
@@ -382,7 +382,7 @@ UniqueID=CC2F62BA-883F-43C1-BBD8-A00E67B31A1A
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=124
+VariationCount=147
 Variation1=Designator=MN3|UniqueId=\PASGDSBF|Kind=0|AlternatePart= 
 Variation2=Designator=MN5|UniqueId=\VRSHDKBJ|Kind=1|AlternatePart= 
 Variation3=Designator=MN4|UniqueId=\CYTXAKES|Kind=1|AlternatePart= 
@@ -507,6 +507,29 @@ Variation121=Designator=C18|UniqueId=\TNLLNSMK|Kind=1|AlternatePart=
 Variation122=Designator=MECH29|UniqueId=\MHSIGHJE|Kind=1|AlternatePart= 
 Variation123=Designator=MECH20|UniqueId=\FUUGQUDN|Kind=1|AlternatePart= 
 Variation124=Designator=MECH21|UniqueId=\YASULKTS|Kind=1|AlternatePart= 
+Variation125=Designator=C10|UniqueId=\ESLWXSQF|Kind=0|AlternatePart= 
+Variation126=Designator=C15|UniqueId=\URAJMMMR|Kind=0|AlternatePart= 
+Variation127=Designator=C20|UniqueId=\HAYMXOTB|Kind=0|AlternatePart= 
+Variation128=Designator=C25|UniqueId=\PINQQSLS|Kind=0|AlternatePart= 
+Variation129=Designator=C42|UniqueId=\AEEGKQQC|Kind=0|AlternatePart= 
+Variation130=Designator=C44|UniqueId=\GGQIYIVT|Kind=0|AlternatePart= 
+Variation131=Designator=ESD1|UniqueId=\ADWMNRFT|Kind=0|AlternatePart= 
+Variation132=Designator=ESD2|UniqueId=\RGLCGZES|Kind=0|AlternatePart= 
+Variation133=Designator=ESD3|UniqueId=\GOJXQHFB|Kind=0|AlternatePart= 
+Variation134=Designator=ESD4|UniqueId=\DOXILGKU|Kind=0|AlternatePart= 
+Variation135=Designator=ESD5|UniqueId=\WVXABFFO|Kind=0|AlternatePart= 
+Variation136=Designator=ESD6|UniqueId=\IIMDUOCL|Kind=0|AlternatePart= 
+Variation137=Designator=FR1|UniqueId=\TEALPCBB|Kind=0|AlternatePart= 
+Variation138=Designator=IC15|UniqueId=\JCRKMSGJ|Kind=0|AlternatePart= 
+Variation139=Designator=IC2|UniqueId=\LNGSPELQ|Kind=0|AlternatePart= 
+Variation140=Designator=IC29|UniqueId=\QEMOTZIT|Kind=0|AlternatePart= 
+Variation141=Designator=MN3|UniqueId=\LTMMRFNN|Kind=0|AlternatePart= 
+Variation142=Designator=MN5|UniqueId=\KJAXJULP|Kind=0|AlternatePart= 
+Variation143=Designator=R26|UniqueId=\FZOCCUZE|Kind=0|AlternatePart= 
+Variation144=Designator=R30|UniqueId=\XZZNGDNS|Kind=0|AlternatePart= 
+Variation145=Designator=R31|UniqueId=\VGKOYLQM|Kind=0|AlternatePart= 
+Variation146=Designator=R46|UniqueId=\DFUETVRT|Kind=0|AlternatePart= 
+Variation147=Designator=R55|UniqueId=\CDRFGYYQ|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -564,7 +587,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for LimeFEA-HF_Micro_1v0
 
 [OutputGroup1]
 Name=Netlist Outputs
