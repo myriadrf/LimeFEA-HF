@@ -547,12 +547,12 @@ Variation161=Designator=C38|UniqueId=\JQAAJRGL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=PROJECT_VERSION
-Value=1.0
-
-[Parameter2]
 Name=SHEET_TOTAL
 Value=5
+
+[Parameter2]
+Name=PROJECT_VERSION
+Value=1.1
 
 [Configuration1]
 Name=Default Configuration
