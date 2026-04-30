@@ -1,0 +1,5 @@
+Changes:
+ 
+LimeFEA-HF_Micro_1v1(_DB)_DFMr0:
+ - Initial version
+ - PCB stack-up JLC04161H-7628 optimized for JLCPCB manufacturer
